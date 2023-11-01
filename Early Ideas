@@ -1,0 +1,7 @@
+**Early Ideas**
+
+An App / Webservice / plugin built around the collation and organisation of short sound clips. (henceforth known as samples.) 
+
+The exact means for this will be solidified through a collaborative process, but the early idea takes inspiration from the plugin XO, a plugin from XLN Audio, primarily marketed at electronic producers which offers a 
+unique approach to sample sorting: Samples are arranged in a 2 dimensional map of points, such that each sound is represented by a coloured dot, which are then grouped according to the fundamental frequencies (pitch) present in the samples.
+There are several other methodologies by which sounds can be compared in an automated system, the most relevant of which at the time of writing is AI or Machine Learning. 
